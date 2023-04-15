@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="omega-logo.png">
+  <img src="https://github.com/TeamOmega-us/.github/blob/main/profile/omega-logo.png">
 </div>
 
 # Team Omega Members
